@@ -1,2 +1,5 @@
 data
 .venv
+.virtual_documents
+.jupyter
+.ipynb_checkpoints
